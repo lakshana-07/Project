@@ -1,2 +1,4 @@
-for i in range(5):
-  print("This issss Michael Johnson.")
+i = int(input())
+
+for _ in range(i):
+    print("as far i remember i alwasy wanted to be an gangster")
