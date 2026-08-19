@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
-  cout<<"Michael Johnson";
+  cout<<"Michael Jackson";
+  cout<<"Johnson";
   return 0;
 }
